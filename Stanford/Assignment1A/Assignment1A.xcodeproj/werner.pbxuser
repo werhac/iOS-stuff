@@ -1,0 +1,254 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* Assignment1AAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {649, 415}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 338}";
+			sepNavWindowFrame = "{{19, 4}, {890, 869}}";
+		};
+	};
+	1D3623250D0F684500981E51 /* Assignment1AAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {831, 741}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 497}";
+			sepNavWindowFrame = "{{19, 4}, {890, 869}}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* Assignment1A */ = {
+		activeExec = 0;
+		executables = (
+			3642A73A110B919800241A37 /* Assignment1A */,
+		);
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 3642A73A110B919800241A37 /* Assignment1A */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Assignment1A */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Assignment1A */,
+		);
+		codeSenseManager = 3642A748110B91A000241A37 /* Code sense */;
+		executables = (
+			3642A73A110B919800241A37 /* Assignment1A */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					471,
+					20,
+					48,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					431,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 304377811;
+			PBXWorkspaceStateSaveDate = 304377811;
+		};
+		perUserProjectItems = {
+			362E2AF212030E6D00E9B65F /* PBXTextBookmark */ = 362E2AF212030E6D00E9B65F /* PBXTextBookmark */;
+			3642921111A3E7230022A992 /* PBXBookmark */ = 3642921111A3E7230022A992 /* PBXBookmark */;
+			3642921211A3E7230022A992 /* PlistBookmark */ = 3642921211A3E7230022A992 /* PlistBookmark */;
+			3642921311A3E7230022A992 /* PBXTextBookmark */ = 3642921311A3E7230022A992 /* PBXTextBookmark */;
+			3642921411A3E7230022A992 /* PBXTextBookmark */ = 3642921411A3E7230022A992 /* PBXTextBookmark */;
+			3642921611A3E7230022A992 /* PBXTextBookmark */ = 3642921611A3E7230022A992 /* PBXTextBookmark */;
+			3642921811A3E7230022A992 /* PBXTextBookmark */ = 3642921811A3E7230022A992 /* PBXTextBookmark */;
+			36AE84D712246FF400C9D018 /* PBXTextBookmark */ = 36AE84D712246FF400C9D018 /* PBXTextBookmark */;
+		};
+		sourceControlManager = 3642A747110B91A000241A37 /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	362E2AF212030E6D00E9B65F /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3642922511A3E7230022A992 /* UIBarButtonItem.h */;
+		name = "UIBarButtonItem.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 474;
+		vrLoc = 0;
+	};
+	3642921111A3E7230022A992 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 3642A74A110B926000241A37 /* Der Kleiderständer.JPG */;
+	};
+	3642921211A3E7230022A992 /* PlistBookmark */ = {
+		isa = PlistBookmark;
+		fRef = 8D1107310486CEB800E47090 /* Assignment1A-Info.plist */;
+		fallbackIsa = PBXBookmark;
+		isK = 0;
+		kPath = (
+		);
+		name = "/Users/werner/Documents/Coding/iPhone/Assignment1A/Assignment1A-Info.plist";
+		rLen = 0;
+		rLoc = 2147483647;
+	};
+	3642921311A3E7230022A992 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* Assignment1AAppDelegate.h */;
+		name = "Assignment1AAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 338;
+		vrLoc = 0;
+	};
+	3642921411A3E7230022A992 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3642921511A3E7230022A992 /* NSUserDefaults.h */;
+		name = "NSUserDefaults.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 830;
+		vrLoc = 0;
+	};
+	3642921511A3E7230022A992 /* NSUserDefaults.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = NSUserDefaults.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSUserDefaults.h;
+		sourceTree = "<absolute>";
+	};
+	3642921611A3E7230022A992 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3642921711A3E7230022A992 /* UIAlert.h */;
+		name = "UIAlert.h: 119";
+		rLen = 21;
+		rLoc = 5214;
+		rType = 0;
+		vrLen = 1399;
+		vrLoc = 9616;
+	};
+	3642921711A3E7230022A992 /* UIAlert.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIAlert.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIAlert.h;
+		sourceTree = "<absolute>";
+	};
+	3642921811A3E7230022A992 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 3642921911A3E7230022A992 /* UIApplication.h */;
+		name = "UIApplication.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1022;
+		vrLoc = 0;
+	};
+	3642921911A3E7230022A992 /* UIApplication.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIApplication.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIApplication.h;
+		sourceTree = "<absolute>";
+	};
+	3642922511A3E7230022A992 /* UIBarButtonItem.h */ = {
+		isa = PBXFileReference;
+		lastKnownFileType = sourcecode.c.h;
+		name = UIBarButtonItem.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIBarButtonItem.h;
+		sourceTree = "<absolute>";
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {649, 1170}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 507}";
+		};
+	};
+	3642A73A110B919800241A37 /* Assignment1A */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Assignment1A;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	3642A747110B91A000241A37 /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	3642A748110B91A000241A37 /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	36AE84D712246FF400C9D018 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 36AE84D812246FF400C9D018 /* UIBarButtonItem.h */;
+		name = "UIBarButtonItem.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 507;
+		vrLoc = 0;
+	};
+	36AE84D812246FF400C9D018 /* UIBarButtonItem.h */ = {
+		isa = PBXFileReference;
+		name = UIBarButtonItem.h;
+		path = /Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS3.0.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIBarButtonItem.h;
+		sourceTree = "<absolute>";
+	};
+}
